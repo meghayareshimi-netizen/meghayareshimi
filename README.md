@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Megha Yareshimi</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Open Source Learner</h3>
 
 <p align="center">
@@ -9,10 +9,10 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **MERN Stack & AI**
+- 🌱 Currently learning **PYTHON FULL STACK**
 - 💻 Passionate about Web Development
 - 🤝 Open to collaborating on Open Source Projects
-- 📫 Reach me at **your@email.com**
+- 📫 Reach me at **meghayareshimi@gmail.com**
 - ⚡ Fun fact: I love solving coding challenges.
 
 ---
